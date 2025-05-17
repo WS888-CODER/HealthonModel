@@ -1,0 +1,92 @@
+region,date,temperature,humidity,wind_speed,air_quality_index,rainfall,population_density,median_age,percent_elderly,percent_children,percent_chronic_disease,disease_types_present,allergen_plants,allergy_cases,allergy_type,common_epidemics,healthcare_facilities,vaccination_rate,available_medicine_stock,season,month,is_weekend,is_holiday,day_of_week,inbound_travelers,outbound_travelers,event_type,event_attendance,predicted_disease,predicted_risk_level,recommended_vaccine,preventive_measures,disease_probability_next_week
+Riyadh,5/16/2024,28.7,81,24.4,135,7.1,396,38.5,11.6,31.8,18.6,Flu,Acacia,160,Pollen Allergy,COVID-19,46,41.9,8896,Spring,5,TRUE,FALSE,Saturday,2268,4415,Cultural,7788,Flu,Medium,None,None,0.5
+Riyadh,8/6/2024,32.8,80,7.8,51,7.5,399,26.6,12.9,23.1,32.5,COVID-19,Acacia,114,None,COVID-19,51,47.1,8501,Summer,8,TRUE,FALSE,Sunday,8136,1585,Sports,4054,Heatstroke,Critical,Heat Vaccine,Mask,1
+Riyadh,3/6/2024,39.7,23,19.6,118,7.6,346,32.3,7.7,34.9,11.1,Flu,Grass,172,Pollen Allergy,None,69,43.3,9239,Spring,3,FALSE,TRUE,Monday,973,1107,Sports,3188,Flu,Low,COVID-19,Hydration,0.3
+Riyadh,10/12/2024,46.5,61,23.8,180,7.4,212,31,15.5,20.4,24.2,Diarrhea,Grass,282,Pollen Allergy,None,73,84.4,2761,Autumn,10,FALSE,FALSE,Tuesday,8544,2814,Religious,6894,Allergy,Low,Influenza,Hand Wash,0.3
+Riyadh,1/12/2024,34.7,67,7.3,172,1.4,295,37.8,16.4,31.8,24.6,Heatstroke,None,149,None,Flu,14,88.5,7231,Winter,1,FALSE,TRUE,Wednesday,2669,4772,Religious,6904,COVID-19,Medium,Heat Vaccine,Avoid Outdoors,0.5
+Riyadh,7/1/2024,47.8,39,8.1,97,10,408,35.4,9.4,27.8,13.4,Diarrhea,Acacia,90,Food Allergy,Flu,13,74.8,6295,Summer,7,FALSE,TRUE,Thursday,7314,6044,Cultural,4430,Diarrhea,Medium,Influenza,Mask,0.5
+Riyadh,2/20/2024,47.1,35,17.8,79,1.3,91,35.5,13.6,24,22.8,COVID-19,None,219,None,None,24,57.3,2813,Winter,2,TRUE,FALSE,Friday,8676,7310,None,4462,Pneumonia,Critical,COVID-19,Avoid Outdoors,0.9
+Makkah,8/2/2024,40.5,34,24,46,4,69,32,9.2,26.5,34.8,Heatstroke,Sidr,257,None,None,86,58.8,4067,Summer,8,TRUE,FALSE,Saturday,5908,6489,Religious,4066,Heatstroke,High,COVID-19,Mask,0.8
+Makkah,4/20/2024,27.5,50,10.6,172,0.1,203,29.3,8.5,24.9,34,COVID-19,Palm,133,Pet Allergy,Flu,26,70.3,5901,Spring,4,TRUE,TRUE,Sunday,7478,4469,Sports,5406,Asthma,High,Influenza,None,0.7
+Makkah,2/18/2024,31.7,59,5.4,172,9.5,336,33.5,16.2,32.2,23.5,Diarrhea,Sidr,16,Dust Allergy,None,89,71.5,2698,Winter,2,FALSE,TRUE,Monday,4487,7425,Cultural,8504,Flu,Low,Heat Vaccine,Avoid Outdoors,0.3
+Makkah,6/2/2024,41.7,25,9.9,101,4.7,419,27.2,7.3,33.9,16.4,Diarrhea,Palm,26,None,COVID-19,81,46.9,6748,Summer,6,FALSE,FALSE,Tuesday,5401,3978,Religious,3147,Heatstroke,Critical,Heat Vaccine,Hand Wash,1
+Makkah,1/15/2024,39.3,42,15.4,131,7.2,338,35.2,17.9,28.8,28.8,None,Palm,123,Mold Allergy,Flu,45,92.9,8564,Winter,1,FALSE,FALSE,Wednesday,6895,6446,Sports,1419,Cold,Low,COVID-19,Hand Wash,0.3
+Makkah,3/21/2024,46.8,73,15.9,32,6.7,403,38.8,19.6,26.8,34.5,Heatstroke,Grass,69,Pet Allergy,None,21,52.1,6165,Spring,3,FALSE,TRUE,Thursday,7758,4004,Sports,4203,Allergy,Medium,Heat Vaccine,Hydration,0.5
+Makkah,10/4/2024,35.2,41,20.4,39,3.7,395,32.4,6.7,30.7,25.9,Heatstroke,Acacia,82,Pollen Allergy,Flu,14,51.4,1353,Autumn,10,TRUE,TRUE,Friday,9064,761,None,14,Asthma,Medium,Influenza,None,0.5
+Madinah,9/11/2024,46.8,48,9.8,103,5.8,295,34.7,18.7,29.5,12.5,Asthma,Sidr,230,None,Flu,43,84,5652,Autumn,9,TRUE,FALSE,Saturday,6295,4130,None,3721,COVID-19,High,COVID-19,Mask,0.7
+Madinah,9/10/2024,27,79,8,40,1,139,35.6,11.3,31.6,24.6,Asthma,Grass,106,None,None,47,61.1,6440,Autumn,9,TRUE,FALSE,Sunday,9957,4884,Religious,9093,COVID-19,High,Heat Vaccine,Hand Wash,0.7
+Madinah,7/9/2024,25.1,71,21.2,38,0.6,54,26.7,5.2,24.4,33.6,Heatstroke,None,294,Food Allergy,None,61,40.3,2655,Summer,7,FALSE,TRUE,Monday,1796,3647,Cultural,2383,Diarrhea,High,COVID-19,None,0.7
+Madinah,1/12/2024,43.2,79,22.5,71,0.7,237,30.7,9.2,27.5,15.5,Heatstroke,Palm,119,Dust Allergy,COVID-19,89,77.3,3120,Winter,1,FALSE,FALSE,Tuesday,5576,6188,None,666,Flu,Medium,COVID-19,Mask,0.5
+Madinah,12/10/2024,29,74,9.2,83,0.2,83,27.3,19.1,30,24.5,None,Acacia,159,Dust Allergy,Flu,40,82.5,7155,Winter,12,FALSE,TRUE,Wednesday,6383,6482,Religious,9696,Flu,Low,Heat Vaccine,Avoid Outdoors,0.3
+Madinah,3/5/2024,29.7,80,17.3,101,4.3,473,25.6,12.4,24.3,13.9,Diarrhea,Sidr,228,Dust Allergy,None,97,56.6,2152,Spring,3,FALSE,FALSE,Thursday,2911,5241,Religious,9982,Flu,Medium,COVID-19,Mask,0.5
+Madinah,4/11/2024,39.4,11,22.8,86,3.6,297,26.5,9,27.1,18.2,None,Acacia,162,Dust Allergy,None,52,42.6,9589,Spring,4,TRUE,TRUE,Friday,5096,5477,Sports,3397,Flu,Medium,Heat Vaccine,None,0.5
+Qassim,9/12/2024,31.7,43,12.7,91,8.2,90,31,14,25,16.5,Flu,Acacia,101,Dust Allergy,None,17,78,4222,Autumn,9,TRUE,TRUE,Saturday,5576,594,Religious,5119,Flu,Medium,Influenza,Avoid Outdoors,0.5
+Qassim,11/7/2024,26.1,57,14.5,176,1.5,123,32,7.2,22.9,15.6,Flu,Acacia,96,None,Flu,92,93.5,1349,Autumn,11,TRUE,FALSE,Sunday,9785,857,Religious,5735,COVID-19,Medium,Heat Vaccine,Hand Wash,0.5
+Qassim,5/13/2024,27.6,45,21.3,175,2.4,417,31.4,18.8,34.2,10.6,Flu,Palm,138,Pet Allergy,COVID-19,79,61.8,6855,Spring,5,FALSE,FALSE,Monday,5503,986,Religious,8661,Allergy,Medium,COVID-19,None,0.5
+Qassim,12/16/2024,35,39,22,157,5.5,120,25.6,5.7,21.5,25.2,Diarrhea,Acacia,259,Pollen Allergy,Flu,19,87.4,4830,Winter,12,FALSE,FALSE,Tuesday,6368,6672,None,9242,Flu,Low,Influenza,None,0.3
+Qassim,2/15/2024,26.6,15,6.7,101,3,230,27.7,17.2,21.4,26.2,None,Acacia,199,Pollen Allergy,COVID-19,57,92.1,6475,Winter,2,FALSE,TRUE,Wednesday,9927,853,Religious,6479,Flu,Medium,Influenza,None,0.5
+Qassim,12/7/2024,47.9,73,22.2,148,1.5,451,37.6,8.6,26.5,12.5,Diarrhea,Sidr,201,None,Flu,30,41,8374,Winter,12,FALSE,TRUE,Thursday,9361,6119,Cultural,277,COVID-19,Medium,COVID-19,Avoid Outdoors,0.5
+Qassim,10/5/2024,38.3,30,17.4,49,6.4,320,30.8,10,27.9,16.2,Flu,Palm,93,None,Flu,67,72.5,5250,Autumn,10,TRUE,FALSE,Friday,7617,6588,Cultural,2168,COVID-19,High,Influenza,Hydration,0.7
+Eastern Province,3/8/2024,26.3,84,15.5,142,3.6,172,29,14.8,23.3,17.7,Flu,Palm,218,Dust Allergy,None,20,80.7,9841,Spring,3,TRUE,FALSE,Saturday,6592,7412,None,2781,Flu,Low,Heat Vaccine,Mask,0.3
+Eastern Province,11/8/2024,41.1,52,9.1,164,9.6,182,27.2,8,22,16.5,None,Palm,74,None,COVID-19,13,85,2609,Autumn,11,TRUE,FALSE,Sunday,9002,4265,Religious,1144,COVID-19,High,Influenza,None,0.7
+Eastern Province,2/8/2024,27.1,78,12.2,194,0.1,177,34.6,8.5,32.5,14.7,Diarrhea,Palm,84,Mold Allergy,Flu,64,81.1,5225,Winter,2,FALSE,FALSE,Monday,4746,7007,Religious,6872,Cold,Medium,Influenza,Hand Wash,0.5
+Eastern Province,8/15/2024,43.1,48,17.8,192,4.2,192,35.8,13.8,29.8,14.1,None,Sidr,144,Food Allergy,COVID-19,55,49.9,5090,Summer,8,FALSE,TRUE,Tuesday,5561,7506,None,4700,Food Poisoning,High,COVID-19,None,0.7
+Eastern Province,12/23/2024,25,25,13.5,101,0.9,185,28.8,12.5,27.2,12.9,None,Palm,224,Pollen Allergy,COVID-19,72,89.7,8825,Winter,12,FALSE,TRUE,Wednesday,9665,4420,Sports,914,Flu,Low,None,Hand Wash,0.3
+Eastern Province,1/19/2024,33,35,22.8,157,7.9,293,33.1,8.5,31,12,Heatstroke,Grass,18,Dust Allergy,COVID-19,19,74.1,1134,Winter,1,FALSE,FALSE,Thursday,6361,2149,None,3569,Flu,Medium,None,Mask,0.5
+Eastern Province,2/27/2024,42,40,8.7,192,2.5,449,31.4,7.4,24.2,24.7,Asthma,Grass,294,Dust Allergy,Flu,66,90.8,7859,Winter,2,TRUE,TRUE,Friday,9830,5059,Religious,2514,Flu,Low,None,Avoid Outdoors,0.3
+Asir,7/6/2024,45.5,11,15.4,90,4,475,30.3,9.4,33.9,21.2,None,None,76,Food Allergy,Flu,47,41.4,3288,Summer,7,TRUE,TRUE,Saturday,9687,7308,Cultural,1833,Diarrhea,High,Influenza,Hand Wash,0.7
+Asir,1/26/2024,38,34,18,31,8.7,237,35.7,10.9,26.3,30.1,COVID-19,Palm,200,None,Flu,78,45,8031,Winter,1,TRUE,TRUE,Sunday,1898,4371,Cultural,2879,COVID-19,Medium,COVID-19,None,0.5
+Asir,6/7/2024,36.9,85,14.6,54,6.4,71,30.6,5.3,26.4,18.9,COVID-19,Acacia,246,Food Allergy,Flu,53,94.7,9218,Summer,6,FALSE,TRUE,Monday,4043,4306,Cultural,1267,Diarrhea,High,COVID-19,Mask,0.7
+Asir,9/26/2024,34.7,50,5.6,69,5.5,416,31.1,10.1,22.6,33.6,Flu,Palm,30,None,COVID-19,10,76,8294,Autumn,9,FALSE,TRUE,Tuesday,6559,7215,Cultural,2073,COVID-19,High,None,Avoid Outdoors,0.7
+Asir,4/21/2024,45.4,83,21.4,159,5.2,475,33.4,16.9,32.8,30.1,Asthma,None,121,None,Flu,5,48.1,2088,Spring,4,FALSE,TRUE,Wednesday,5299,3567,Cultural,5094,COVID-19,High,Influenza,Hand Wash,0.7
+Asir,7/8/2024,43.4,10,24.8,87,8,55,32,17,31.3,16.7,Flu,Acacia,192,Dust Allergy,COVID-19,62,73.6,4672,Summer,7,FALSE,FALSE,Thursday,5905,5649,Sports,7869,Asthma,High,COVID-19,Hand Wash,0.8
+Asir,6/9/2024,45.6,46,10.9,165,4.4,98,35,9,21.2,29.5,COVID-19,Sidr,238,Food Allergy,None,41,43.9,3817,Summer,6,TRUE,FALSE,Friday,5040,3038,None,3360,Diarrhea,High,None,Hydration,0.7
+Tabuk,6/13/2024,33.4,48,10,77,0.6,80,26.4,16.7,25.1,14.2,Diarrhea,Acacia,190,Pollen Allergy,Flu,33,72.4,9281,Summer,6,TRUE,FALSE,Saturday,7051,7135,Religious,3943,Asthma,High,None,None,0.8
+Tabuk,9/8/2024,45.9,17,16.6,91,5.8,351,31.3,11.2,22.2,25.9,COVID-19,Acacia,50,Pollen Allergy,Flu,41,70.5,3166,Autumn,9,TRUE,FALSE,Sunday,4752,3462,Cultural,5559,Asthma,High,COVID-19,Hand Wash,0.7
+Tabuk,3/9/2024,25.8,66,9.9,180,1.6,186,30.6,9.3,32.8,20.7,Heatstroke,Palm,132,None,COVID-19,77,93.6,5198,Spring,3,FALSE,TRUE,Monday,9206,1014,Religious,1986,COVID-19,High,Heat Vaccine,None,0.7
+Tabuk,5/28/2024,32.9,74,22.6,93,5.9,299,32.1,19.4,23,28.4,Diarrhea,Acacia,48,Dust Allergy,None,42,56.3,2143,Spring,5,FALSE,FALSE,Tuesday,1971,1503,Cultural,7411,Flu,Medium,Heat Vaccine,Mask,0.5
+Tabuk,5/5/2024,37,76,8.2,54,5.4,172,32.2,16.1,21.2,11.8,Flu,Grass,152,Dust Allergy,Flu,54,94,6054,Spring,5,FALSE,TRUE,Wednesday,786,2486,Religious,6121,Allergy,Medium,Heat Vaccine,Mask,0.5
+Tabuk,8/5/2024,34.2,65,18.4,62,2.7,453,35.9,14.9,33.4,24,COVID-19,Acacia,197,Food Allergy,Flu,67,58.3,6558,Summer,8,FALSE,TRUE,Thursday,4806,4019,Sports,2795,Diarrhea,Medium,COVID-19,None,0.5
+Tabuk,5/20/2024,27,10,11,42,2.2,264,30.2,11.8,20.5,21.8,Asthma,Acacia,158,Dust Allergy,COVID-19,72,73,6400,Spring,5,TRUE,TRUE,Friday,4639,3513,Cultural,6034,Flu,Medium,Influenza,Hydration,0.5
+Hail,8/20/2024,37.2,55,20.2,113,4.4,459,38,16.3,32.9,13,Flu,Sidr,127,Pollen Allergy,COVID-19,44,87.4,2471,Summer,8,TRUE,TRUE,Saturday,4858,7850,None,8007,Asthma,Medium,None,Avoid Outdoors,0.6
+Hail,12/27/2024,25.7,14,14.3,62,5.6,50,31,13.8,31.5,17.4,Heatstroke,Palm,37,Pollen Allergy,None,68,75.1,8290,Winter,12,TRUE,TRUE,Sunday,3412,2838,Religious,3397,Flu,Low,COVID-19,Avoid Outdoors,0.3
+Hail,1/8/2024,42.7,26,17.7,178,4.2,59,26.2,15.6,31.1,18.9,Diarrhea,Sidr,132,None,None,98,56.3,9250,Winter,1,FALSE,TRUE,Monday,2846,7601,Religious,7842,COVID-19,Medium,COVID-19,Mask,0.5
+Hail,5/11/2024,44.5,70,18.6,122,3,116,35.1,15.4,33.9,13.2,Heatstroke,Sidr,40,Pollen Allergy,None,96,64.9,5816,Spring,5,FALSE,FALSE,Tuesday,2681,2021,Religious,1981,Flu,Low,Heat Vaccine,Hydration,0.3
+Hail,5/25/2024,30.5,69,8.6,165,6.6,497,36.8,17.4,28.4,26.1,COVID-19,Acacia,59,Pet Allergy,None,25,53.3,5036,Spring,5,FALSE,TRUE,Wednesday,3774,3275,Religious,3380,Asthma,Medium,Heat Vaccine,Mask,0.5
+Hail,10/14/2024,27.6,74,6.9,104,5.9,303,33.4,5.9,23.3,17.9,Flu,None,162,None,COVID-19,75,66.4,2108,Autumn,10,FALSE,FALSE,Thursday,2848,7029,Cultural,1957,COVID-19,Medium,Heat Vaccine,Hand Wash,0.5
+Hail,1/19/2024,30.6,81,16.6,54,6,419,37.8,6.7,27.7,14.8,Flu,None,260,None,COVID-19,22,77,2946,Winter,1,TRUE,TRUE,Friday,2876,724,Religious,9906,COVID-19,Medium,Influenza,Avoid Outdoors,0.5
+Northern Borders,5/5/2024,31,61,12.7,156,6.6,454,39.4,15.3,27.9,18.5,Flu,None,103,None,COVID-19,66,66.1,7782,Spring,5,TRUE,FALSE,Saturday,1246,2718,Sports,4791,COVID-19,Medium,COVID-19,Hydration,0.5
+Northern Borders,5/21/2024,45.8,22,10.1,37,0.9,334,38.8,14.7,23.3,22,Asthma,Acacia,84,None,Flu,70,63.3,4449,Spring,5,TRUE,TRUE,Sunday,8949,2343,Cultural,6102,COVID-19,High,Heat Vaccine,Hand Wash,0.7
+Northern Borders,7/30/2024,44.6,61,16.3,107,2.4,233,36.6,8.6,24.4,23.6,Diarrhea,Acacia,43,Food Allergy,Flu,54,60,8674,Summer,7,FALSE,TRUE,Monday,7293,7701,Sports,7695,Food Poisoning,High,Influenza,Avoid Outdoors,0.7
+Northern Borders,4/8/2024,34.1,43,22.5,177,0.2,432,28,16.5,23.6,34.8,None,Sidr,239,Dust Allergy,None,76,46.4,1329,Spring,4,FALSE,TRUE,Tuesday,2030,3690,Religious,4059,Flu,Medium,Influenza,None,0.5
+Northern Borders,11/2/2024,46.6,61,21.6,104,8.3,270,36.7,19.8,33.8,20.9,Diarrhea,Sidr,182,Pollen Allergy,COVID-19,21,65.1,4000,Autumn,11,FALSE,TRUE,Wednesday,1221,2914,Sports,9611,Asthma,Medium,Influenza,Mask,0.5
+Northern Borders,12/25/2024,44.8,52,17.3,177,8.8,85,35,8.1,24.2,12.1,COVID-19,None,22,None,Flu,30,75.7,6985,Winter,12,FALSE,FALSE,Thursday,5058,322,Religious,4723,COVID-19,Medium,None,Mask,0.5
+Northern Borders,4/24/2024,28.7,38,22,49,5.1,178,38.1,19.1,32.9,33.5,None,None,122,Pet Allergy,COVID-19,66,92.9,6370,Spring,4,TRUE,FALSE,Friday,9877,1835,Cultural,987,Asthma,Medium,Influenza,Hydration,0.5
+Jazan,9/17/2024,41.8,34,19.2,100,1.5,67,35.9,17.2,21,32.4,Heatstroke,None,250,Pet Allergy,Flu,68,67.6,1717,Autumn,9,TRUE,TRUE,Saturday,7516,6951,Cultural,2087,Asthma,High,COVID-19,Hand Wash,0.7
+Jazan,12/19/2024,46.2,15,12.7,99,6.8,411,37.6,6.8,32.3,24.2,Asthma,None,277,Pollen Allergy,Flu,51,69.9,1851,Winter,12,TRUE,FALSE,Sunday,8082,3680,Cultural,2995,Flu,Medium,Heat Vaccine,Mask,0.5
+Jazan,1/24/2024,36.5,56,5.2,48,4.9,478,31.1,7.5,29.7,12.7,COVID-19,Sidr,207,Pollen Allergy,COVID-19,82,66.8,9244,Winter,1,FALSE,TRUE,Monday,7570,5615,Sports,8665,Flu,Medium,None,Avoid Outdoors,0.5
+Jazan,12/29/2024,25.4,44,22,93,3.6,265,34.4,5.2,22.8,24.1,Flu,Sidr,243,Dust Allergy,None,18,73.8,7213,Winter,12,FALSE,TRUE,Tuesday,9705,441,Religious,1577,Flu,Medium,None,Mask,0.5
+Jazan,11/27/2024,28,36,20,70,1.9,212,31.2,5.6,23.8,25.4,Diarrhea,Palm,47,Pollen Allergy,None,36,47.2,1057,Autumn,11,FALSE,FALSE,Wednesday,4718,6014,None,5867,Flu,Medium,Heat Vaccine,Mask,0.5
+Jazan,1/11/2024,45.3,38,12.8,118,9.6,112,33.5,11,23.3,11.3,COVID-19,Palm,235,None,None,79,61.2,4232,Winter,1,FALSE,FALSE,Thursday,884,3198,Cultural,8326,Pneumonia,Critical,Influenza,Mask,0.9
+Jazan,8/14/2024,28.6,18,10.8,167,4.6,130,32.1,10.6,21.2,12.6,Diarrhea,Acacia,248,None,COVID-19,48,77.3,7436,Summer,8,TRUE,TRUE,Friday,1536,2116,None,2926,Heatstroke,High,None,Avoid Outdoors,0.8
+Najran,12/6/2024,46.8,49,23.5,123,3.5,175,36.1,7.3,24.1,27,COVID-19,Acacia,118,Mold Allergy,COVID-19,34,51.4,9631,Winter,12,TRUE,FALSE,Saturday,2944,2255,Sports,1655,Cold,Low,Heat Vaccine,Avoid Outdoors,0.3
+Najran,9/30/2024,31.5,66,11.7,106,4.9,168,35.3,18.9,30.6,24.6,Diarrhea,Palm,299,Dust Allergy,COVID-19,33,76.3,2977,Autumn,9,TRUE,TRUE,Sunday,2347,6514,Religious,630,Asthma,High,COVID-19,Hydration,0.7
+Najran,2/14/2024,35.7,38,19.8,146,8.7,335,37.8,5.2,33,21.6,Asthma,None,105,Mold Allergy,Flu,7,76.3,5728,Winter,2,FALSE,FALSE,Monday,2098,4122,None,4601,Cold,Low,Influenza,Hand Wash,0.3
+Najran,10/12/2024,39.2,35,13.7,170,0.6,89,27.9,12.2,23.9,22.4,Heatstroke,Grass,182,Pollen Allergy,Flu,6,47.3,6809,Autumn,10,FALSE,TRUE,Tuesday,5608,2334,Sports,4494,Flu,Low,None,Hydration,0.3
+Najran,8/11/2024,39.2,76,24.4,30,9.3,189,36.4,6.8,22,33.2,Diarrhea,Sidr,200,Food Allergy,COVID-19,52,74.8,6447,Summer,8,FALSE,TRUE,Wednesday,9666,3899,Cultural,6243,Diarrhea,High,COVID-19,Hand Wash,0.7
+Najran,6/19/2024,35.4,82,20.1,197,0.7,327,25.6,6.4,30.4,13,Heatstroke,Grass,223,Pet Allergy,Flu,31,50.6,5526,Summer,6,FALSE,TRUE,Thursday,1375,4272,Religious,5158,Asthma,Medium,Influenza,None,0.6
+Najran,12/22/2024,43.4,22,15.3,110,9.1,189,33.8,8.7,30.7,25.4,Heatstroke,None,285,Pollen Allergy,COVID-19,9,91.5,4845,Winter,12,TRUE,TRUE,Friday,5993,1282,None,2528,Flu,Low,COVID-19,Mask,0.3
+Bahah,6/3/2024,43.3,47,12.3,88,9.3,487,37.4,10.9,22.1,33.2,COVID-19,Sidr,211,None,COVID-19,44,40.1,9661,Summer,6,TRUE,FALSE,Saturday,3051,7102,Religious,1676,Heatstroke,High,Heat Vaccine,Hand Wash,0.8
+Bahah,12/26/2024,39.3,41,12,164,2.5,128,33.1,18,33.1,11.9,Heatstroke,None,265,None,Flu,50,62.8,4123,Winter,12,TRUE,TRUE,Sunday,9010,3570,Sports,7495,Pneumonia,High,COVID-19,Avoid Outdoors,0.7
+Bahah,8/13/2024,40.8,32,17.8,120,3.5,140,39.8,8.3,29.8,10.6,None,Grass,165,Dust Allergy,Flu,8,69.9,6692,Summer,8,FALSE,TRUE,Monday,9971,970,None,8783,Asthma,High,Heat Vaccine,Avoid Outdoors,0.8
+Bahah,4/9/2024,46.7,58,22.6,95,0.1,211,32.1,16.8,25.8,16.1,Diarrhea,Palm,96,Pollen Allergy,COVID-19,66,71.5,2390,Spring,4,FALSE,TRUE,Tuesday,7672,2203,Sports,4779,Asthma,High,Heat Vaccine,Mask,0.7
+Bahah,10/31/2024,30.4,78,24.8,44,2,390,31.5,5.7,31.5,11.7,Diarrhea,Acacia,130,Pollen Allergy,COVID-19,62,90.7,8725,Autumn,10,FALSE,TRUE,Wednesday,2555,3532,None,39,Flu,Low,COVID-19,Avoid Outdoors,0.3
+Bahah,10/27/2024,43,55,24,101,3.4,389,27.4,9.1,27.3,22.4,Asthma,Palm,23,Dust Allergy,None,56,90.2,8588,Autumn,10,FALSE,FALSE,Thursday,6026,5642,Sports,947,Allergy,Medium,COVID-19,Mask,0.5
+Bahah,11/20/2024,38.1,68,11.2,33,5.9,377,26.5,12.2,21.2,29.8,Flu,Grass,160,Pollen Allergy,Flu,75,71.6,5485,Autumn,11,TRUE,FALSE,Friday,3697,634,Religious,2129,Asthma,High,Influenza,Hand Wash,0.7
+Al-Jouf,9/13/2024,25.5,74,14.9,150,6.9,137,25.1,15,31.6,15.2,Heatstroke,Palm,107,Dust Allergy,COVID-19,11,81.1,6971,Autumn,9,TRUE,FALSE,Saturday,6057,5358,None,748,Flu,Low,COVID-19,None,0.3
+Al-Jouf,2/18/2024,40.3,73,5.8,190,6.2,185,26.7,18.2,23.9,23.3,Asthma,Sidr,189,None,None,84,56.9,1854,Winter,2,TRUE,FALSE,Sunday,6564,3657,Cultural,3789,COVID-19,High,COVID-19,Mask,0.7
+Al-Jouf,8/5/2024,46.5,17,22.6,171,4,72,35.9,5.6,25.8,24.5,Diarrhea,Acacia,213,Food Allergy,None,98,91.1,9139,Summer,8,FALSE,TRUE,Monday,918,5573,Sports,8665,Diarrhea,High,None,Mask,0.7
+Al-Jouf,4/19/2024,37,74,22.4,82,5.4,209,35.6,15.2,31.3,25,Asthma,Acacia,283,Pollen Allergy,Flu,5,61.5,1944,Spring,4,FALSE,FALSE,Tuesday,3567,2786,Cultural,9247,Flu,Low,COVID-19,Hand Wash,0.3
+Al-Jouf,2/26/2024,38.6,40,19.9,87,1.5,160,27.1,5.3,31.1,21.6,Flu,Acacia,88,None,None,98,57.8,7167,Winter,2,FALSE,TRUE,Wednesday,9230,2096,Sports,9004,Pneumonia,Critical,Heat Vaccine,Mask,0.9
+Al-Jouf,6/30/2024,26.2,48,16.7,58,8.6,156,32.4,14.9,27.8,24,COVID-19,None,136,None,COVID-19,47,50.8,9660,Summer,6,FALSE,TRUE,Thursday,1499,1219,Religious,4697,Heatstroke,High,Influenza,Hand Wash,0.8
+Al-Jouf,5/25/2024,33,74,6.9,106,6.1,361,39.8,6.8,25.2,20.3,Heatstroke,Grass,164,Pollen Allergy,COVID-19,59,72.7,1266,Spring,5,TRUE,FALSE,Friday,4574,3251,Sports,4957,Asthma,Medium,Heat Vaccine,None,0.5
